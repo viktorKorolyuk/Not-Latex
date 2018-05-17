@@ -2,7 +2,7 @@
 
 This is a latex-inspired processor which takes a text file as input and outputs an HTML file with the proper styles and formatting.
 
-It allows for Latex-like math to be used (using MathML) and it supports Markdown.
+It allows for Latex-like math to be used (using MathJax) and it supports Markdown.
 
 ## Example
 
