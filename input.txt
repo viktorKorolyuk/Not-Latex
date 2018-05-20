@@ -1,0 +1,27 @@
+---
+title: Un transfer du langue fn  rançais
+author: M Jeffereson
+stylesheet: style.css
+---
+
+---
+title : bill
+---
+
+#### Et voila, tout fonctionne.
+
+
+Bloc mathématique:
+```math
+x = \sum{2} * 17
+```
+
+Bloc de code "JavaScript":
+
+```js
+var awesome = "ombre"
+```
+
+Coolio ${\frac{4}{2}}$
+
+Probabilité que je vais utiliser cette programme: ${\frac{\sum{4}}{\frac{pi}{\lim_{x\to\{0}}}}}$
